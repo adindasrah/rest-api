@@ -1,0 +1,24 @@
+[
+	{ 
+		"nama" : "Fathul",
+		"umur" : 22,
+		"nrp"  : "173040048",
+		"lulus" : true,
+		"hobby" : ["basket", "futsal"],
+		"pembimbing" : {
+			"pembimbing1" : "Sandhika Galih",
+			"pembimbing2" : "Doddy Ferdiansyah"
+		}
+	},
+	{
+		"nama" : "Supratman",
+		"umur" : 22,
+		"nrp"  : "173040049",
+		"lulus" : true,
+		"hobby" : ["makan", "minum"],
+		"pembimbing" : {
+			"pembimbing1" : "Sandhika Galih",
+			"pembimbing2" : "Doddy Ferdiansyah"
+		}
+	}
+]
